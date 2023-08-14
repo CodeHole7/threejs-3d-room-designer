@@ -1,5 +1,5 @@
 # Three.js-based room configurator (floor planner + product configurator)
-
+## Note: Current version is react-bundled one, please contact me via telegram (@pegasus_0000)
 [Live](https://threejs-room-configurator.netlify.app/)
 ![image 1](./screenshots/1.JPG)
 ![image 1](./screenshots/2.JPG)
